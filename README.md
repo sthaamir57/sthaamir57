@@ -12,5 +12,3 @@ I'm a web developer and designer based in Nepal.
 **Backend Development:** `Node.js` `Flask` `FastAPI`
 
 **Design Tools:** `Figma` `Photoshop` `Illustrator`
-
-**Version Control:** `Git`

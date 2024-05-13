@@ -13,4 +13,4 @@ I'm a web developer and designer based in Nepal.
 
 **Design Tools:** `Figma` `Photoshop` `Illustrator`
 
-**Version Control:** `Git` `Github`
+**Version Control:** `Git`

@@ -9,6 +9,6 @@ I'm a web developer and designer based in Nepal.
 
 **Frontend Development:** `React.js` `Tailwind` `Framer-Motion` `GSAP`
 
-**Backend Development:** `Node.js` `Flask` `FastAPI`
+**Backend Development:** `Flask` `FastAPI`
 
 **Design Tools:** `Figma` `Photoshop` `Illustrator`
